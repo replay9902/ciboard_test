@@ -1,0 +1,44 @@
+a:3:{s:4:"time";i:1602035503;s:3:"ttl";i:1;s:4:"data";s:1576:"<div class="col-md-6">
+	<div class="panel panel-default">
+	<!-- Default panel contents -->
+		<div class="panel-heading">
+			linux			<div class="view-all pull-right">
+				<a href="http://ess328.synology.me/~dev/ciboard/board/linux" title="linux">더보기 <i class="fa fa-angle-right"></i></a>
+			</div>
+		</div>
+
+		<!-- Table -->
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<tbody>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/64" title="리눅스 파일 속 문자열 찾기">리눅스 파일 속 문자열 찾기</a>
+													</td>
+						<td class="px80">10-05</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/54" title="cp 명령어로 특정파일을 여러 폴더에 복사">cp 명령어로 특정파일을 여러 폴더에 복사</a>
+							 <span class="latest_comment_count"> +1</span>						</td>
+						<td class="px80">06-01</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/36" title="vim 사용법">vim 사용법</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/35" title="chmod">chmod</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/34" title="root 권한 획득 방법">root 권한 획득 방법</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+";}

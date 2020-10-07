@@ -1,0 +1,44 @@
+a:3:{s:4:"time";i:1602035503;s:3:"ttl";i:1;s:4:"data";s:1658:"<div class="col-md-6">
+	<div class="panel panel-default">
+	<!-- Default panel contents -->
+		<div class="panel-heading">
+			php			<div class="view-all pull-right">
+				<a href="http://ess328.synology.me/~dev/ciboard/board/php" title="php">더보기 <i class="fa fa-angle-right"></i></a>
+			</div>
+		</div>
+
+		<!-- Table -->
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<tbody>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/60" title="include 하는 내용에 처리할 일이 있을 때">include 하는 내용에 처리할 일이 있을 때</a>
+													</td>
+						<td class="px80">09-10</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/59" title="mysqli_multi_query 실행 후 mysql_query 가 실행…">mysqli_multi_query 실행 후 mysql_query 가 실행…</a>
+													</td>
+						<td class="px80">09-09</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/58" title="fopen 파일 읽기 관련">fopen 파일 읽기 관련</a>
+													</td>
+						<td class="px80">09-09</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/57" title="속도 체크">속도 체크</a>
+							 <span class="latest_comment_count"> +1</span>						</td>
+						<td class="px80">08-26</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/56" title="curl에서 결과가 출력될때">curl에서 결과가 출력될때</a>
+													</td>
+						<td class="px80">07-09</td>
+					</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+";}

@@ -1,0 +1,41 @@
+a:3:{s:4:"time";i:1602035503;s:3:"ttl";i:1;s:4:"data";s:1228:"<div class="col-md-6">
+	<div class="panel panel-default">
+	<!-- Default panel contents -->
+		<div class="panel-heading">
+			IDE/Editor			<div class="view-all pull-right">
+				<a href="http://ess328.synology.me/~dev/ciboard/board/ide" title="IDE/Editor">더보기 <i class="fa fa-angle-right"></i></a>
+			</div>
+		</div>
+
+		<!-- Table -->
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<tbody>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/31" title="vs code 단축키">vs code 단축키</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/30" title="Remote System Explorer에서 숨김 파일 표시 ( .hta…">Remote System Explorer에서 숨김 파일 표시 ( .hta…</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td>게시물이 없습니다</td>
+						<td class="px80"></td>
+					</tr>
+									<tr>
+						<td>게시물이 없습니다</td>
+						<td class="px80"></td>
+					</tr>
+									<tr>
+						<td>게시물이 없습니다</td>
+						<td class="px80"></td>
+					</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+";}

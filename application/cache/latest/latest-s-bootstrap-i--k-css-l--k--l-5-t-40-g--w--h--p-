@@ -1,0 +1,43 @@
+a:3:{s:4:"time";i:1602035503;s:3:"ttl";i:1;s:4:"data";s:1360:"<div class="col-md-6">
+	<div class="panel panel-default">
+	<!-- Default panel contents -->
+		<div class="panel-heading">
+			css			<div class="view-all pull-right">
+				<a href="http://ess328.synology.me/~dev/ciboard/board/css" title="css">더보기 <i class="fa fa-angle-right"></i></a>
+			</div>
+		</div>
+
+		<!-- Table -->
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<tbody>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/61" title="반응형 유튜브 영상">반응형 유튜브 영상</a>
+													</td>
+						<td class="px80">09-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/48" title="calc 사용">calc 사용</a>
+													</td>
+						<td class="px80">02-10</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/13" title="엘레멘트 개수에 따른 width값">엘레멘트 개수에 따른 width값</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/12" title="CSS 특성">CSS 특성</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td>게시물이 없습니다</td>
+						<td class="px80"></td>
+					</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+";}

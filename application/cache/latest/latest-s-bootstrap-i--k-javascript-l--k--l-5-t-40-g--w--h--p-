@@ -1,0 +1,44 @@
+a:3:{s:4:"time";i:1602035503;s:3:"ttl";i:1;s:4:"data";s:1521:"<div class="col-md-6">
+	<div class="panel panel-default">
+	<!-- Default panel contents -->
+		<div class="panel-heading">
+			javascript			<div class="view-all pull-right">
+				<a href="http://ess328.synology.me/~dev/ciboard/board/javascript" title="javascript">더보기 <i class="fa fa-angle-right"></i></a>
+			</div>
+		</div>
+
+		<!-- Table -->
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<tbody>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/62" title="유튜브 영상 반응형 소스">유튜브 영상 반응형 소스</a>
+													</td>
+						<td class="px80">09-16</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/47" title="fancybox 사용법">fancybox 사용법</a>
+													</td>
+						<td class="px80">01-22</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/16" title="slick.js 예제">slick.js 예제</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/15" title="bxslider 예제">bxslider 예제</a>
+							 <span class="latest_comment_count"> +1</span>						</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/14" title="cycle plugin 예제">cycle plugin 예제</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+";}

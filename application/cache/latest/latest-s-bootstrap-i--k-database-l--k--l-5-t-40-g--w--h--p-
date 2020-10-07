@@ -1,0 +1,44 @@
+a:3:{s:4:"time";i:1602035503;s:3:"ttl";i:1;s:4:"data";s:1605:"<div class="col-md-6">
+	<div class="panel panel-default">
+	<!-- Default panel contents -->
+		<div class="panel-heading">
+			database			<div class="view-all pull-right">
+				<a href="http://ess328.synology.me/~dev/ciboard/board/database" title="database">더보기 <i class="fa fa-angle-right"></i></a>
+			</div>
+		</div>
+
+		<!-- Table -->
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<tbody>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/25" title="mysql replace 함수 사용 예시">mysql replace 함수 사용 예시</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/24" title="Select 한 내용 Insert 시키는 방법">Select 한 내용 Insert 시키는 방법</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/23" title="Mysql Too many connection 관련">Mysql Too many connection 관련</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/22" title="생활관 쿼리">생활관 쿼리</a>
+							 <span class="latest_comment_count"> +1</span>						</td>
+						<td class="px80">10-14</td>
+					</tr>
+									<tr>
+						<td><a href="http://ess328.synology.me/~dev/ciboard/post/21" title="group by having 사용">group by having 사용</a>
+													</td>
+						<td class="px80">10-14</td>
+					</tr>
+								</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+";}
